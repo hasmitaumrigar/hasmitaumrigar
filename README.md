@@ -1,21 +1,79 @@
-# 💫 About Me:
-Hi, I’m Hasmita 👋<br><br>🔭 Currently working on SOC-related projects and building a Network Anomaly Detection System<br>👯 Open to collaborating on cybersecurity projects, SOC tools, and threat detection ideas<br>🤝 Looking for help with real-world SOC workflows, SIEM tools, and improving detection techniques<br>🌱 Currently learning more about threat intelligence, cloud security, and how real SOC teams operate<br>💬 Ask me about Wireshark, basic malware analysis, incident response, and cybersecurity learning paths<br>⚡ Fun fact: I enjoy mobile games, coding, exploring new tech, working on projects… and I’m definitely a bit of a sleepyhead 😴
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=SOC%20%7C%20Cybersecurity%20%7C%20Threat-Detection&fontSize=30&fontColor=ffffff" />
+</p>
 
+# 👩‍💻 Hi, I'm Hasmita
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hasmita-umrigar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasmitaumrigar@gmail.com) 
+💻 Cybersecurity & SOC-focused learner working on real-world security projects  
+🔍 Interested in threat detection, incident response, and network security analysis  
+📍 Based in the United Kingdom  
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-## 📊 GitHub Stats
+---
+
+## 💡 About Me
+
+- 🔭 Currently working on **SOC projects** and a **Network Anomaly Detection System**
+- 👯 Open to collaborating on **SOC tools, threat detection, and cybersecurity automation**
+- 🤝 Looking for help with **SIEM workflows, detection engineering, and real SOC environments**
+- 🌱 Currently learning **advanced threat intelligence, cloud security, and DFIR workflows**
+- 💬 Ask me about **Wireshark, SOC analysis, malware basics, incident response**
+- ⚡ Fun fact: I enjoy **mobile games 🎮, coding 💻, exploring tech 🚀, building projects… and yes, I’m a sleepyhead 😴**
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasmitaumrigar&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=hasmitaumrigar&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmitaumrigar&layout=compact&theme=dark" />
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hasmitaumrigar&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚨 Projects
+
+- 🧠 **SOC Log Analyzer** → Detects suspicious activity from logs in real-time  
+- 📊 **Threat Intelligence Dashboard** → Visualises cyber threats & indicators  
+- 🎣 **Phishing Detection System** → Identifies malicious URLs using risk patterns  
+- 🕵️ **Malware Analysis Toolkit** → Packet inspection & traffic investigation  
+- 🔬 **Digital Forensics Workflows** → Log and network investigation improvements  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasmitaumrigar&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/hasmita-umrigar  
+- 📧 Email: hasmitaumrigar@gmail.com  
+- 💻 GitHub: https://github.com/hasmitaumrigar  
+
+---
+
+<p align="center">
+  “Learning never stops in cybersecurity—because neither do attackers.” 🚀
+</p>
+
+<!-- END -->
