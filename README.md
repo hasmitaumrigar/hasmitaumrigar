@@ -7,7 +7,6 @@
 
 💻 Cybersecurity & SOC-focused learner working on real-world security projects  
 🔍 Interested in threat detection, incident response, and network security analysis  
-📍 Based in the United Kingdom  
 
 ---
 
