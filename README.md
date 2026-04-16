@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=SOC%20%7C%20Cybersecurity%20%7C%20Threat-Detection&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=SOC%20%7C%20Cybersecurity%20%7C%20Threat-Detection&fontSize=30&fontColor=ffffff" />
 </p>
 
 # 👩‍💻 Hi, I'm Hasmita
